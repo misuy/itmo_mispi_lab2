@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #create dir and init git repo
 rm -rf git
 mkdir git
