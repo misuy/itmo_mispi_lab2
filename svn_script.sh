@@ -230,4 +230,4 @@ cp ../../to_merge/merge_blue1_to_red0/C.java C.java
 cp ../../to_merge/merge_blue1_to_red0/E.java E.java
 cp ../../to_merge/merge_blue1_to_red0/J.java J.java
 svn add *
-svn commit -m "my r19" --username=blue
+svn commit -m "my r19" --username=red
